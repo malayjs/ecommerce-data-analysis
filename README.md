@@ -4,10 +4,7 @@ An end-to-end data analytics project that transforms raw e-commerce data into cl
 
 ## Dashboard Preview
 
-> **Add your own dashboard screenshot here.** Save your Power BI dashboard screenshot as `dashboard.png` inside a folder named `images` in this repository. Then the image will appear here on GitHub.
-
-E-Commerce Sales Performance Dashboard --- (image.png)
-
+<img width="1306" height="711" alt="image" src="https://github.com/user-attachments/assets/3012ee95-9632-4472-beb6-3bb5a1ae245e" />
 
 
 ## Project Objectives
