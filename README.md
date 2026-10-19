@@ -176,4 +176,5 @@ This project can help answer questions such as:
 ---
 
 **Project:** E-Commerce Sales Performance Dashboard 
+
 **Tools:** Python, Pandas, NumPy, MySQL, SQL, Power BI
